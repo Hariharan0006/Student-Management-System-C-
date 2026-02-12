@@ -37,3 +37,7 @@ Compile the project:
 Run the program:
 ./sms   # Linux / Mac
 sms.exe # Windows
+
+<img width="953" height="905" alt="image" src="https://github.com/user-attachments/assets/d6e601a8-c74b-4eac-a639-510439432688" />
+<img width="953" height="905" alt="image" src="https://github.com/user-attachments/assets/5a0bdd3c-1831-457c-a0ec-84caa6247c74" />
+
