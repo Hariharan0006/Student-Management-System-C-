@@ -1,6 +1,5 @@
 # Student Management System (C++)
-![Home Page](1.png)
-![Recommendation Result](2.png)
+![Home Page](sample_1.png)
 
 
 A **console-based Student Management System** developed in C++ that allows users to **Add, View, Search, Update, and Delete student records**. This project demonstrates **Object-Oriented Programming (OOP)**, **file handling**, and **STL (vectors & algorithms)** in C++.
@@ -43,6 +42,7 @@ sms.exe # Windows
 
 <img width="953" height="905" alt="image" src="https://github.com/user-attachments/assets/d6e601a8-c74b-4eac-a639-510439432688" />
 <img width="953" height="905" alt="image" src="https://github.com/user-attachments/assets/5a0bdd3c-1831-457c-a0ec-84caa6247c74" />
+
 
 
 
